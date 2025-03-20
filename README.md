@@ -2,8 +2,6 @@
 
 A lightweight, transparent desktop ruler application built with Python and Tkinter. This tool helps designers and developers measure elements on their screen with pixel-perfect accuracy.
 
-![Desktop Ruler Screenshot](screenshots/ruler_screenshot.png)
-
 ## Features
 
 - Transparent overlay that stays on top of other windows
